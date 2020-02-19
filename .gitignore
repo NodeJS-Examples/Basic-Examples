@@ -105,3 +105,6 @@ dist
 
 # Cloud9 IDE files
 .c9
+
+# MongoDB files
+/data
